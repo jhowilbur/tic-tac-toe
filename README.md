@@ -12,9 +12,9 @@
 
 Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Vamos abordar conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!
 
-- [Projeto desenvolvido]()
+- [Projeto desenvolvido](https://tic-tac-toe-wilbur.vercel.app/)
 
-<p align="center"><img src="./src/assets/projeto.gif" title="Jogo da Velha - DIO"></p>
+<p align="center"><img src="./src/assets/projeto.gif" title="Jogo da Velha"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
